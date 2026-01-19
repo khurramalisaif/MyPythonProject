@@ -1,9 +1,8 @@
 # Project: Simple Calculator (Python)
 
-## Team Members
-- **Khurram Ali Saif** – Roll Number: 2540026  
-- **Junaid Mumtaz** – Roll Number: 2540020  
-- **Muhammad Fahed Arshad** – Roll Number: 2540217  
+
+- **Khurram Ali Saif** 
+
 
 ## Project Description
 This is a **Python web-based calculator** built using **Streamlit**.  
